@@ -1,0 +1,12 @@
+AddWordIntent  add word
+AddWordIntent  add words
+DeleteWordIntent  delete word
+DeleteAllWordsIntent delete spelling list
+DeleteAllWordsIntent delete all words
+ReadWordsIntent read words
+ReadWordsIntent read spelling list
+StartTestIntent start spelling test
+SpellWordIntent spell that
+SpellWordIntent spell that for me
+SpellWordIntent spell that back to me
+SpellingIntent  {Spelling}
